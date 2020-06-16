@@ -7227,6 +7227,101 @@ a.text-dark:hover, a.text-dark:focus {
       background: red;
       width: 60%; }
 
+.background-container {
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  position: fixed;
+  background: transparent; }
+
+/*.background{
+  width: 100vw;
+  height: 300vw;
+  z-index: 10;
+
+  position: fixed;
+
+  justify-content: center;
+
+  //background: transparent;
+  background: $white_pink url('../../../uploads/hbaso/general/background/large_bubbles.png') repeat-y fixed center;
+
+  background-size: cover;
+
+  animation:rise 15s linear infinite ;
+  animation-delay:0s;
+
+}*/
+.background-circle-1 {
+  width: 60vw;
+  height: 60vw;
+  left: 3vw;
+  border-radius: 50%;
+  position: fixed;
+  background: #FACFDA;
+  animation: fall 60s linear infinite;
+  animation-delay: 0s; }
+
+.background-circle-2 {
+  width: 40vw;
+  height: 40vw;
+  right: 3vw;
+  border-radius: 50%;
+  position: fixed;
+  background: #FACFDA;
+  animation: fall 60s linear infinite;
+  animation-delay: -14.4s; }
+
+.background-circle-3 {
+  width: 40vw;
+  height: 40vw;
+  left: 3vw;
+  border-radius: 50%;
+  position: fixed;
+  background: #FACFDA;
+  animation: fall 60s linear infinite;
+  animation-delay: -18.6s; }
+
+.background-circle-4 {
+  width: 60vw;
+  height: 60vw;
+  right: 3vw;
+  border-radius: 50%;
+  position: fixed;
+  background: #FACFDA;
+  animation: fall 60s linear infinite;
+  animation-delay: -27s; }
+
+.background-circle-5 {
+  width: 40vw;
+  height: 40vw;
+  left: 3vw;
+  border-radius: 50%;
+  position: fixed;
+  background: #FACFDA;
+  animation: fall 60s linear infinite;
+  animation-delay: -41.4s; }
+
+.background-circle-6 {
+  width: 50vw;
+  height: 50vw;
+  right: 3vw;
+  border-radius: 50%;
+  position: fixed;
+  background: #FACFDA;
+  animation: fall 60s linear infinite;
+  animation-delay: -47.4s; }
+
+@keyframes fall {
+  from {
+    top: -400%; }
+  to {
+    top: 100%; } }
+
+@media screen and (max-width: 58rem) {
+  .background-container {
+    opacity: 0%; } }
+
 .sides {
   width: 100vw;
   height: 100vh;
