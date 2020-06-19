@@ -7443,6 +7443,8 @@ header {
     display: inline; }
   header ul#menu-primary li {
     display: inline; }
+  header ul#menu-header-menu li {
+    display: inline; }
   header .top-left-cluster {
     list-style-type: none; }
   header .logo-div {
