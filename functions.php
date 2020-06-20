@@ -23,8 +23,11 @@ function load_javascript()
   wp_enqueue_script('custom');*/
 
 
-  wp_register_script('testJS', get_template_directory_uri() . '/src/test.js', array('jquery') , 1, true);
-  wp_enqueue_script('testJS');
+  wp_register_script('appJS', get_template_directory_uri() . '/src/app.js', array('jquery') , 1, true);
+  wp_enqueue_script('appJS');
+
+  wp_register_script('carouselJS', get_template_directory_uri() . '/src/carousel.js', array('jquery') , 1, true);
+  wp_enqueue_script('carouselJS');
 
 /*  wp_register_script('fire', get_template_directory_uri() . '/src/movingFire.js', array('jquery') , 1, true);
   wp_enqueue_script('fire');*/
