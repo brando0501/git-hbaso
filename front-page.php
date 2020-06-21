@@ -217,45 +217,49 @@ get_header();
           <div class="glide__track" data-glide-el="track">
             <ul class="glide__slides">
 
-                <li class="glide__slide">
-                  <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_big_dots.jpg" id="mask-carousel-img-1" onclick="carouselClick('mask-carousel-img-1', 'mask-carousel');">
-                </li>
+              <li class="glide__slide">
+                <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/scott_april_masks.jpg" id="mask-carousel-img-0" onclick="carouselClick('mask-carousel-img-0', 'mask-carousel');">
+              </li>
 
-                <li class="glide__slide">
-                  <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_skulls.jpg" id="mask-carousel-img-2" onclick="carouselClick('mask-carousel-img-2', 'mask-carousel');">
-                </li>
+              <li class="glide__slide">
+                <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_big_dots.jpg" id="mask-carousel-img-1" onclick="carouselClick('mask-carousel-img-1', 'mask-carousel');">
+              </li>
 
-                <li class="glide__slide">
-                  <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_maker.jpg" id="mask-carousel-img-3" onclick="carouselClick('mask-carousel-img-3', 'mask-carousel');">
-                </li>
+              <li class="glide__slide">
+                <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_skulls.jpg" id="mask-carousel-img-2" onclick="carouselClick('mask-carousel-img-2', 'mask-carousel');">
+              </li>
 
-                <li class="glide__slide">
-                  <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_floral.jpg" id="mask-carousel-img-4" onclick="carouselClick('mask-carousel-img-4', 'mask-carousel');">
-                </li>
+              <li class="glide__slide">
+                <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_maker.jpg" id="mask-carousel-img-3" onclick="carouselClick('mask-carousel-img-3', 'mask-carousel');">
+              </li>
 
-                <li class="glide__slide">
-                  <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_miami.jpg" id="mask-carousel-img-5" onclick="carouselClick('mask-carousel-img-5', 'mask-carousel');">
-                </li>
+              <li class="glide__slide">
+                <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_floral.jpg" id="mask-carousel-img-4" onclick="carouselClick('mask-carousel-img-4', 'mask-carousel');">
+              </li>
 
-                <li class="glide__slide">
-                  <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_turquoise_pattern.jpg" id="mask-carousel-img-6" onclick="carouselClick('mask-carousel-img-6', 'mask-carousel');">
-                </li>
+              <li class="glide__slide">
+                <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_miami.jpg" id="mask-carousel-img-5" onclick="carouselClick('mask-carousel-img-5', 'mask-carousel');">
+              </li>
 
-                <li class="glide__slide">
-                  <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_pink_dots.jpg" id="mask-carousel-img-7" onclick="carouselClick('mask-carousel-img-7', 'mask-carousel');">
-                </li>
+              <li class="glide__slide">
+                <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_turquoise_pattern.jpg" id="mask-carousel-img-6" onclick="carouselClick('mask-carousel-img-6', 'mask-carousel');">
+              </li>
 
-                <li class="glide__slide">
-                  <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_purple.jpg" id="mask-carousel-img-8" onclick="carouselClick('mask-carousel-img-8', 'mask-carousel');">
-                </li>
+              <li class="glide__slide">
+                <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_pink_dots.jpg" id="mask-carousel-img-7" onclick="carouselClick('mask-carousel-img-7', 'mask-carousel');">
+              </li>
 
-                <li class="glide__slide">
-                  <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_hunting.jpg" id="mask-carousel-img-7" onclick="carouselClick('mask-carousel-img-7', 'mask-carousel');">
-                </li>
+              <li class="glide__slide">
+                <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_purple.jpg" id="mask-carousel-img-8" onclick="carouselClick('mask-carousel-img-8', 'mask-carousel');">
+              </li>
 
-                <li class="glide__slide">
-                  <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_blue_floral.jpg" id="mask-carousel-img-8" onclick="carouselClick('mask-carousel-img-8', 'mask-carousel');">
-                </li>
+              <li class="glide__slide">
+                <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_hunting.jpg" id="mask-carousel-img-7" onclick="carouselClick('mask-carousel-img-7', 'mask-carousel');">
+              </li>
+
+              <li class="glide__slide">
+                <img class="img-fluid mask-carousel-img" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/carousel/mask_blue_floral.jpg" id="mask-carousel-img-8" onclick="carouselClick('mask-carousel-img-8', 'mask-carousel');">
+              </li>
 
             </ul>
           </div>
