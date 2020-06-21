@@ -173,7 +173,7 @@ get_header();
           <div class="text-center">
             <h5 class="grid-titles">Masks Made For You</h5>
             <p class="mp-paragraph-text">
-              To help keep you safe during the Coronavirus outbreak, Hairbands and Sew On is now offering custom handmade face masks. Why walk around with a plain old face mask when you could sport one with some character? We all wish we didn't need one, but now you can stand out when you just cant stay in any longer. Breathe safe, and in style!
+              To help keep you safe during the Coronavirus outbreak, Hairbands and Sew On is now offering custom handmade face masks. Why walk around with a plain old face mask when you could sport one with some character? We all wish we didn't need one, but now you can stand out when you just can't stay in any longer. Breathe safe, and in style!
             </p>
           </div>
       </div>
@@ -182,7 +182,7 @@ get_header();
         <div class="text-center">
           <h5 class="grid-titles">Fits The Whole Family</h5>
           <p class="mp-paragraph-text">
-            Hairbands and Sew On's quality handmade face masks come in four sizes, so everyone can have one that fits just right! We can make any size mask in any style you'd like, simply select which sizes you'd like before checking out. Get everyone in your family a mask they'll love and fits their unique personality.
+            Hairbands and Sew On's quality handmade face masks feature elastic ear straps , fitted wire nose grip for a precise fit and a pocket to insert a filter if desired.  They come in four sizes, so everyone can have one that fits just right! We can make any size mask in any style you'd like, simply select which sizes you'd like before checking out. Get everyone in your family a mask they'll love and fits their unique personality.
           </p>
         </div>
       </div>
@@ -308,7 +308,7 @@ get_header();
           <div class="text-center">
             <h5 class="grid-titles">Perfect For Prom</h5>
             <p class="mp-paragraph-text">
-              Hairbands and Sew On founder Cissy Buchta got started making garters by hand when her daughter needed on for her very own Junior Prom. Her friends loved them and word soon got around that these garters are the greatest you can get. Every garter is sewn with care and garaunteed to get to you on time. We can even match any dress!
+              Add the finishing touch to your special night with a custom garter by Hairbands and Sew On.  Each garter is designed and created with you to perfectly complement your dress and dates attire.
             </p>
           </div>
       </div>
@@ -317,7 +317,7 @@ get_header();
         <div class="text-center">
           <h5 class="grid-titles">Match Dress Fabrics</h5>
           <p class="mp-paragraph-text">
-            Why buy a drab, plain, and basic garter when you can get one that goes perfectly with your dress. You can even send us fabric samples to use to really hand-craft your look. It's always great to ask your dressmaker for some scraps! Otherwise, we would be more than happy to work directly with you throughout the process to ensure your garter comes out how you want, so you can look the way you've always dreamed you would for Prom.
+            Together we pick your garter center band ribbon, ruffle material, bow size and colors.  We can even add your charms.   Would you like a perfect match? Save the scraps from your dress alterations and these can be used in creating your garter!  See samples of garters designed for previous occasions for ideas or starting points.
           </p>
         </div>
       </div>
@@ -427,9 +427,9 @@ get_header();
 
           <div class="box2 grid-box d-flex justify-content-center">
               <div class="text-center">
-                <h5 class="grid-titles">Show Your Spirit</h5>
+                <h5 class="grid-titles">Glitz Up Gameday</h5>
                 <p class="mp-paragraph-text">
-                  Hairbands and Sew On offers game day gear for a variety
+                  Hairbands and Sew On's signature Game Day bag features a convertible strap allowing you to change it from a cross body purse to a fanny pack with just he slide of string.  Perfect for festivals and Game Day where only small bags are allowed.   An outside easy access pocket fits your I-phone 8 plus,  a small zippered pocket on the back securely stores your cash or cards, and the main pocket is just right for sunglasses, chapstick and a few other essentials.
                 </p>
               </div>
           </div>
@@ -438,7 +438,7 @@ get_header();
             <div class="text-center">
               <h5 class="grid-titles">Sleek and Stylish</h5>
               <p class="mp-paragraph-text">
-                The BoozeBong features a swiveling bowl stem and a flexible downstem, so you can position the device exactly as you wish on a bottle. After you're done using your BoozeBong, you can simply fold up the device and store it in a bag, a box, or even your pocket.
+                MOM YOU NEED TO WRITE ME TEXT TO USE FOR THIS SECTION!
               </p>
             </div>
           </div>
@@ -563,7 +563,7 @@ get_header();
               <div class="text-center">
                 <h5 class="grid-titles">Our Specialty</h5>
                 <p class="mp-paragraph-text">
-                  Hairbands and Sew On all started with our handmade adjustable hairbands. Featuring a no-slip backing, our hairbands are made to comfortably fit heads of all sizes and reliably hold back your hair, even while excersising and playing sports. Quit blowing the hair out of your eyes and select a style from our growing selection.
+                  Hairbands and Sew On all started with our handmade adjustable hairbands. Featuring a no-slip backing, our hairbands are made to comfortably fit heads of all sizes and reliably hold back your hair, even while exercising and playing sports. Quit blowing the hair out of your eyes and select a style from our growing selection.
                 </p>
               </div>
           </div>
@@ -572,7 +572,9 @@ get_header();
             <div class="text-center">
               <h5 class="grid-titles">Perfect For Teams</h5>
               <p class="mp-paragraph-text">
-                Up your team's game and order a hairband for every player. Our adjustable rear strap means that everyone can play in comfort, and our customizable desing means that they can also do it in style. We offer designs for a variety of sports and can match the color to your team's uniform. If you don't see your team's sport in our inventory, don't hesitate to make a custom request, that's our specialty!
+                Up your team's game and order a hairband for every player. Our adjustable elastic strap means that everyone can play or dance in comfort, and our customizable design means that they can also do it in style. We offer designs for a variety of sports and can match the color to your team's uniform.  Dancers love the sparkle and functionality of our adjustable hairbands, offer them as an add on at your dance team camp.
+
+                If you don't see your team's sport in our inventory, don't hesitate to make a custom request, that's our specialty!
               </p>
             </div>
           </div>
