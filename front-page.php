@@ -312,8 +312,7 @@ get_header();
           <div class="text-center">
             <h5 class="grid-titles">Perfect For Prom</h5>
             <p class="mp-paragraph-text">
-              Add the finishing touch to your special night with a custom garter by Hairbands and Sew On.  Each garter is designed and created with you to perfectly complement your dress and dates attire.
-            </p>
+              Add the finishing touch to your special night with a custom garter by Hairbands and Sew On. Each garter is designed and created with you to perfectly complement your dress and dates attire. We can model off of existing samples, or custom create from scratch to ensure your look is unique to you. From simple single bows to elaborate multi-color bows with lace, ribbon, ruffles and charms. Classy, Sassy, Stylish or Bold!            </p>
           </div>
       </div>
 
@@ -442,7 +441,7 @@ get_header();
             <div class="text-center">
               <h5 class="grid-titles">Sleek and Stylish</h5>
               <p class="mp-paragraph-text">
-                MOM YOU NEED TO WRITE ME TEXT TO USE FOR THIS SECTION!
+                Festival & GameDay Bags were designed to carry just what you need for a fun day, evening out or quick trip to the store. Features a unique strap that converts from a cross body bag to a fanny pack with a simple slide of the strap. As your day changes and you want to go hands free just slide the strap and wear on your waist. Easy access snap pocket fits your phone, small outside zip pocket is just right for cards and cash, and use the main pocket for sunglasses, lipbalm and other essentials. Great way to keep just what you need safe and secure on your day out and still look great. Hundreds of fabric to choose from.
               </p>
             </div>
           </div>
