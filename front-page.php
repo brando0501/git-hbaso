@@ -1,22 +1,3 @@
-<?php
-/*
-  Background
-*/
-?>
-<div class="background-container d-flex">
-  <div class="background-circle-1">
-  </div>
-  <div class="background-circle-2">
-  </div>
-  <div class="background-circle-3">
-  </div>
-  <div class="background-circle-4">
-  </div>
-  <div class="background-circle-5">
-  </div>
-  <div class="background-circle-6">
-  </div>
-</div>
 
 <?php
 /*

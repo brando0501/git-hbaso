@@ -9,7 +9,7 @@
 
 </body>
 
-<footer>
+<footer class="footer">
 
 
 
