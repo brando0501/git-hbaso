@@ -34,7 +34,7 @@
         //<link rel="stylesheet" href="node_modules/@glidejs/glide/dist/css/glide.theme.min.css">
     ?>
   </head>
-  <body <?php body_class('body-content');?>>
+  <body id="body-content-id" <?php body_class('body-content');?>>
 
     <?php
         //Facebook video
@@ -95,6 +95,7 @@
    </div>
   </div>
 </header>
+
 
 <?php
 /*

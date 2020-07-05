@@ -8163,11 +8163,7 @@ header {
 
 footer {
   width: 100%;
-  background: #0f0f0f;
-  /*  position: fixed;
-  top: auto;
-  bottom: 0;
-  display: inline-block;*/ }
+  background: #0f0f0f; }
 
 .footer-grid-wrapper {
   display: grid;
@@ -8233,12 +8229,6 @@ footer {
     grid-row-end: 3;
     grid-column-start: 2;
     grid-column-end: 3; } }
-
-.content {
-  min-height: calc(100vh - 307px); }
-
-.footer {
-  height: 190px; }
 
 .pink-polka-strip {
   background-image: url("../../../uploads/hbaso/tiles/176h/pink_polka_horizontal.png");
