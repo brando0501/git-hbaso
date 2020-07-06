@@ -2,11 +2,12 @@ window.onload = function() {
   toggle();
   fillCarouselArrays();
   //checkScroll("body-content-id");
-  checkPage();
+  checkPageFooter();
 }
 
 window.onresize = function() {
   toggle();
+  checkPageFooter();
 }
 
 
@@ -33,25 +34,12 @@ jQuery( window ).resize( function () {
 
 
 //position footer
-function isScrollable(el) {
-    console.log("scroll height: " + el.scrollHeight);
-    console.log("client height: " + window.innerHeight);
-
-    return el.scrollHeight > window.innerHeight;
-}
-
-function checkScroll(id) {
-    /*the data is JSON type, convert it to string and then
-    check the element with given id for scrollbar*/
-    alert(JSON.stringify(isScrollable(document.getElementById(id))));
-
-}
-
-function checkPage(){
-  if ( document.URL.includes("/cart/") ) {
-    var foot = document.getElementById("footer");
-    foot.style.position = "absolute";
-    foot.style.bottom = 0;
+function checkPageFooter(){
+  if (document.URL.includes("/cart/") || document.URL.includes("/contact/")) {
+    var space = document.getElementById("foot-spacer");
+    //foot.style.position = "absolute";
+    //foot.style.bottom = 0;
+    space.style.height = "500px";
   }
 }
 

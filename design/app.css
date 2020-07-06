@@ -8151,19 +8151,28 @@ header {
   background: #f0f0f0;
   border: 0; }
 
-.page-id-13 footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%; }
+/*//about page
+.page-id-13 footer{
+position: fixed;
+bottom: 0;
+width: 100%;
+}
 
-.page-id-14 footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%; }
 
+//contact page
+.page-id-14 footer{
+position: fixed;
+bottom: 0;
+width: 100%;
+}*/
 footer {
   width: 100%;
-  background: #0f0f0f; }
+  background: #0f0f0f;
+  position: relative; }
+
+#foot-spacer {
+  position: block;
+  height: 200px; }
 
 .footer-grid-wrapper {
   display: grid;
@@ -8228,7 +8237,11 @@ footer {
     grid-row-start: 2;
     grid-row-end: 3;
     grid-column-start: 2;
-    grid-column-end: 3; } }
+    grid-column-end: 3; }
+  /*  #foot-spacer{
+    position: relative;
+    height: 700px;
+  }*/ }
 
 .pink-polka-strip {
   background-image: url("../../../uploads/hbaso/tiles/176h/pink_polka_horizontal.png");
