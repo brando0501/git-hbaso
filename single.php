@@ -19,7 +19,7 @@
 
         <?php endwhile; else: endif;?>
 
-        <?php the_tags();?>
+        <?php //the_tags();?>
 
   </div>
 </div>
