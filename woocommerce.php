@@ -17,4 +17,7 @@
   </div>
 </div>
 
+<div id="foot-spacer">
+</div>
+
 <?php get_footer();?>
