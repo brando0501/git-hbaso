@@ -20,6 +20,7 @@ let images = [img1, img2, img3, img4, img5];
 
 
 function fillCarouselArrays(){
+  console.log("in fillCarouselArrays");
   maskCarouselImages = fillImageArray("mask-carousel-img");
   garterCarouselImages = fillImageArray("garter-carousel-img");
   purseCarouselImages = fillImageArray("purse-carousel-img");
@@ -29,14 +30,24 @@ function fillCarouselArrays(){
 
 
 function fillImageArray(targetClass){
+
+  console.log("in fillImageArray");
+  console.log("Target class: " + targetClass);
+
   var carouselArray = document.getElementsByClassName(targetClass);
   var resultArray = [];
+
+  console.log("carouselArray: " + carouselArray);
 
   for(var i=0; i<carouselArray.length; i++) {
       resultArray.push(carouselArray[i]);
   }
 
+  console.log("resultArray: " + resultArray);
+
   let newArray = removeDuplicates(resultArray);
+
+  console.log("newArray: " + newArray);
   return newArray;
 }
 
