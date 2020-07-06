@@ -44,7 +44,7 @@ function checkPageFooter(){
 function setLinks(){
   var links = document.getElementsByClassName("shop-link");
   //console.log(links);
-  if (document.URL.includes("hairbandsandsewon.com")){
+  if (document.URL.includes("hairbandsandsewon.com") && !document.URL.includes("://staging")){
     for(var i=0; i<links.length; i++) {
         //console.log(links[i].href);
         links[i].href = "https://www.hairbandsandsewon.com/shop";
