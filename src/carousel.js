@@ -24,6 +24,7 @@ function fillCarouselArrays(){
   garterCarouselImages = fillImageArray("garter-carousel-img");
   purseCarouselImages = fillImageArray("purse-carousel-img");
   hairbandCarouselImages = fillImageArray("hairband-carousel-img");
+  prepareClose();
 }
 
 
@@ -69,12 +70,14 @@ function removeDuplicates(array) {
 //modal for carousel
 var curImageIndex = 0;
 
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
+function prepareClose(){
+  // Get the <span> element that closes the modal
+  var span = document.getElementsByClassName("close")[0];
 
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-  modal.style.display = "none";
+  // When the user clicks on <span> (x), close the modal
+  span.onclick = function() {
+    modal.style.display = "none";
+  }
 }
 
 function carouselClick(clickedImage, carouselID){

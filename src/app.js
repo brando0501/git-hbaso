@@ -1,6 +1,9 @@
 window.onload = function() {
   toggle();
-  fillCarouselArrays();
+
+  if(document.URL.endsWith("hairbandsandsewon/")){
+    fillCarouselArrays();
+  }
   //checkScroll("body-content-id");
   checkPageFooter();
 }
@@ -24,13 +27,6 @@ function toggle() {
     }
 }
 
-// on page load set the menu display initially
-toggle();
-
-// toggle the menu display on browser resize
-jQuery( window ).resize( function () {
-    toggle();
-} );
 
 
 //position footer
@@ -41,13 +37,4 @@ function checkPageFooter(){
     //foot.style.bottom = 0;
     space.style.height = "500px";
   }
-}
-
-
-//hairbandsandsewon
-function divLink(link){
-  //function not finished. needs actual urls
-  var baseURL= "localhost/hairbandsandsewon/";
-  //console.log(link);
-  window.open("shop");
 }
