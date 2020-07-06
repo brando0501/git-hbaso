@@ -171,7 +171,7 @@ get_header();
       <div class="box4 grid-box mask-content-container">
         <div class="mask-content">
 
-            <a class="shop-link" href="<?php bloginfo('url');?>/shop">
+            <a class="shop-link" href="https://hairbandsandsewon.com/shop/">
               <img class="img-pink-rounded mask-picture" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/masks/mask_examples.jpg">
             </a>
 
@@ -185,7 +185,7 @@ get_header();
 
     <div class="mask-carousel" id="mask-carousel">
       <div class="d-flex justify-content-center">
-        <a class="shop-link" href="<?php bloginfo('url');?>/shop">
+        <a class="shop-link" href="https://hairbandsandsewon.com/shop/">
           <button type="button" class="carousel-title carousel-title-button">Grab A Face Mask</button>
         </a>
       </div>
@@ -281,7 +281,7 @@ get_header();
 
           <div class="garter-content">
 
-              <a class="shop-link" href="<?php bloginfo('url');?>/shop">
+              <a class="shop-link" href="https://hairbandsandsewon.com/shop/">
                 <img class="img-pink-rounded garter-picture" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/garters/demos/garter_girls.jpg">
               </a>
 
@@ -309,7 +309,7 @@ get_header();
       <div class="box4 grid-box garter-content-container">
         <div class="garter-content">
 
-            <a class="shop-link" href="<?php bloginfo('url');?>/shop">
+            <a class="shop-link" href="https://hairbandsandsewon.com/shop/">
               <img class="img-pink-rounded garter-picture" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/garters/garter_gold.jpg">
             </a>
 
@@ -320,7 +320,7 @@ get_header();
 
   <div class="garter-carousel" id="garter-carousel">
     <div class="d-flex justify-content-center">
-      <a class="shop-link" href="<?php bloginfo('url');?>/shop">
+      <a class="shop-link" href="https://hairbandsandsewon.com/shop/">
         <button type="button" class="carousel-title carousel-title-button">Get Your Own Custom Garter</button>
       </a>
     </div>
@@ -401,7 +401,7 @@ get_header();
 
               <div class="purse-content">
 
-                  <a class="shop-link" href="<?php bloginfo('url');?>/shop">
+                  <a class="shop-link" href="https://hairbandsandsewon.com/shop/">
                     <img class="img-pink-rounded purse-picture" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/purses/grid/purses_badger.jpg">
                   </a>
 
@@ -430,7 +430,7 @@ get_header();
           <div class="box4 grid-box purse-content-container">
             <div class="purse-content">
 
-                <a class="shop-link" href="<?php bloginfo('url');?>/shop">
+                <a class="shop-link" href="https://hairbandsandsewon.com/shop/">
                   <img class="img-pink-rounded purse-picture" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/purses/grid/purses_six.jpg">
                 </a>
 
@@ -447,7 +447,7 @@ get_header();
 
   <div class="purse-carousel" id="purse-carousel">
     <div class="d-flex justify-content-center">
-      <a class="shop-link" href="<?php bloginfo('url');?>/shop">
+      <a class="shop-link" href="https://hairbandsandsewon.com/shop/">
         <button type="button" class="carousel-title carousel-title-button">Purchase Your Purse</button>
       </a>
     </div>
@@ -535,7 +535,7 @@ get_header();
 
               <div class="hairband-content">
 
-                  <a class="shop-link" href="<?php bloginfo('url');?>/shop">
+                  <a class="shop-link" href="https://hairbandsandsewon.com/shop/">
                     <img class="img-pink-rounded hairband-picture" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/hairbands/grid/hairbands_two_girls.jpg">
                   </a>
 
@@ -566,7 +566,7 @@ get_header();
           <div class="box4 grid-box hairband-content-container">
             <div class="hairband-content">
 
-                <a class="shop-link" href="<?php bloginfo('url');?>/shop">
+                <a class="shop-link" href="https://hairbandsandsewon.com/shop/">
                   <img class="img-pink-rounded hairband-picture" src="<?php bloginfo('wpurl');?>/wp-content/uploads/hbaso/hairbands/grid/hairbands_basketball.jpg">
                 </a>
 
@@ -583,7 +583,7 @@ get_header();
 
   <div class="hairband-carousel" id="hairband-carousel">
     <div class="d-flex justify-content-center">
-      <a class="shop-link" href="<?php bloginfo('url');?>/shop">
+      <a class="shop-link" href="https://hairbandsandsewon.com/shop/">
         <button type="button" class="carousel-title carousel-title-button">Get a Handmade Hairband</button>
       </a>
     </div>

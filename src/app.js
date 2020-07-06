@@ -5,7 +5,7 @@ window.onload = function() {
     fillCarouselArrays();
   }
   //checkScroll("body-content-id");
-  setLinks();
+  //setLinks();
   checkPageFooter();
 }
 
@@ -41,7 +41,7 @@ function checkPageFooter(){
 }
 
 //correct href links
-function setLinks(){
+/*function setLinks(){
   var links = document.getElementsByClassName("shop-link");
   //console.log(links);
   //if (document.URL.includes("hairbandsandsewon.com") && !document.URL.includes("://staging")){
@@ -50,4 +50,4 @@ function setLinks(){
         links[i].href = "https://www.hairbandsandsewon.com/shop";
     }
   //}
-}
+}*/
