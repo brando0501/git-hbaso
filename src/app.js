@@ -5,6 +5,7 @@ window.onload = function() {
     fillCarouselArrays();
   }
   //checkScroll("body-content-id");
+  setLinks();
   checkPageFooter();
 }
 
@@ -36,5 +37,17 @@ function checkPageFooter(){
     //foot.style.position = "absolute";
     //foot.style.bottom = 0;
     space.style.height = "500px";
+  }
+}
+
+//correct href links
+function setLinks(){
+  var links = document.getElementsByClassName("shop-link");
+  //console.log(links);
+  if (document.URL.includes("hairbandsandsewon.com")){
+    for(var i=0; i<links.length; i++) {
+        //console.log(links[i].href);
+        links[i].href = "https://www.hairbandsandsewon.com/shop";
+    }
   }
 }
