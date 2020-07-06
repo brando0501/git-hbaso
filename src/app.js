@@ -1,7 +1,7 @@
 window.onload = function() {
   toggle();
 
-  if(document.URL.endsWith("hairbandsandsewon/")){
+  if(document.URL.endsWith("hairbandsandsewon/") || document.URL.endsWith("hairbandsandsewon.com")){
     fillCarouselArrays();
   }
   //checkScroll("body-content-id");
