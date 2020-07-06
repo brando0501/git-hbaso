@@ -694,11 +694,14 @@ get_header();
     <img class="modal-img" id="modal-img">
   </div>
   <div id="caption"></div>
+  <?php
+    //Pop up image modal
 
-  <div class="glide__arrows" data-glide-el="controls">
+/*  <div class="glide__arrows" data-glide-el="controls">
     <button class="glide__arrow glide__arrow--left" data-glide-dir="<" onclick="prevClicked();">prev</button>
     <button class="glide__arrow glide__arrow--right" data-glide-dir=">" onclick="nextClicked();">next</button>
-  </div>
+  </div>*/
+  ?>
 </div>
 
 
